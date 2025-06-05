@@ -1,0 +1,7 @@
+os
+shutil
+datetime
+threading
+tkinter
+PIL
+hachoir
