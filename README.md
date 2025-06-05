@@ -14,4 +14,13 @@ Videos: .mp4, .mov, .avi, .mkv, .3gp
 
 Undated or corrupted files are safely copied/moved to a fallback folder to prevent any data loss.
 
-*I am not responible for any data deletion on your side.*
+Libraries required:
+os
+shutil
+datetime
+threading
+tkinter
+PIL
+hachoir
+
+*The author is not responible for any data loss on your side.*
