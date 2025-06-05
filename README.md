@@ -11,3 +11,7 @@ Once you start, the program will start sorting the images and videos according t
 The supported extensions are:
 Images: .jpg, .jpeg, .png, .webp
 Videos: .mp4, .mov, .avi, .mkv, .3gp
+
+Undated or corrupted files are safely copied/moved to a fallback folder to prevent any data loss.
+
+*I am not responible for any data deletion on your side.*
